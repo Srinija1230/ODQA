@@ -1,4 +1,9 @@
-# ODQA: Telugu Open-Domain Question Answering (Project Facts)
+# Telugu Open-Domain Question Answering Pipeline (IIIT Hyderabad Internship): Project Facts
+
+**Project ID:** `TELUGU-ODQA-IIITH`
+**Resume section:** IIIT HYDERABAD, Summer Intern and Research Intern (May 2020 – Jul 2021). This is the **only** project in that section.
+**Also referred to as:** Telugu QA, Telugu ODQA, ODQA repo, IIIT Hyderabad internship, IIIT-H project, low-resource-language QA, Bing + SVM + spaCy QA pipeline, answer-type classification project, 1,342-question SVM project.
+**Not to be confused with:** ScholarRAG (arXiv RAG assistant), the Accenture Banking Regulatory GenAI Assistant (multi-agent RAG), Escape Enterprises RAG, the Insurance Risk-Scoring Platform (XGBoost) or the USF face-recognition fairness thesis.
 
 **Role:** Summer Intern and Research Intern, **IIIT Hyderabad**, **May 2020 – Jul 2021**
 
